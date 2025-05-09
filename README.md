@@ -1,4 +1,17 @@
-# Colab Document
+# REAL TIME COLLABORATIVE DOCUMENT EDITOR
+
+*COMPANY*   : CODETECH IT SOLUTIONS
+
+*NAME*      : ARUN KRISHNA J 
+
+*INTERN ID* : CT04DK51
+
+*DOMAIN*    : FULL STACK WEB DEVELOPMENT
+
+*DURATION*  : 4 WEEKS
+
+*MENTOR*     : NEELA SANTHOSH KUMAR
+
 This is a collaborative text editor that allows realtime text editing among users. The text editor is built using the MERN stack and on top of [Slate.js](https://github.com/ianstormtaylor/slate). The collaborative editing part is implemented using web sockets with the help of [Socket.io](https://github.com/socketio/socket.io). Authentication using [bcrypt](https://www.npmjs.com/package/bcrypt) and authorization using tokens.
 
 The project is live here - [ColabNote](http://colabnote.herokuapp.com/)
